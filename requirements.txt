@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==21.*
+sentence-transformers>=3
+gspread>=6,<7
+google-auth
+tzdata
